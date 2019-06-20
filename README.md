@@ -2,7 +2,7 @@
 
 The repository for algorithm learning and interviews summary created by zfc.
 
-====
+----------------
 
 - [泛型](/notebook/java/泛型.md)
 
