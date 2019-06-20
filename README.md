@@ -8,4 +8,4 @@ The repository for algorithm learning and interviews summary created by zfc.
 
 - [错误与异常](错误与异常.md)
 
-- [操作幂等性](幂等性.md)
+- [操作幂等性](/notebook/Database/幂等性.md)
