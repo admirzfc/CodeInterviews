@@ -21,3 +21,5 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [排序](/notebook/Java/排序.md)
 
 - [Java 语言的特点](/notebook/Java/Java语言的优点.md)
+
+- [输出无序数组中前k个数](/notebook/Java/输出无序数组中前k个数.md)
