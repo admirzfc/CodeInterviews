@@ -24,4 +24,4 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [输出无序数组中前k个数](/notebook/Java/输出无序数组中前k个数.md)
 
-- [Serializable](/notebook/Java/implements Serializable.md)
+- [Serializable](/notebook/Java/Serializable.md)
