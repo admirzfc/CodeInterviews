@@ -36,6 +36,9 @@ The repository for algorithm learning and interviews summary created by ZFC
 ---
 ### 剑指Offer
 
+- [Q3-查询数组中重复的数字](/剑指Offer-Java/Q3-查询数组中重复的数字.md)
+- [Q5-替换字符串中的空格](/剑指Offer-Java/Q5-替换字符串中的空格.md)
 - [Q11-旋转数组中的最小数字](/剑指Offer-Java/Q11-旋转数组的最小数字.md)
 - [Q12-矩阵中的路径](/剑指Offer-Java/Q12-HasPath.md)
+
 
