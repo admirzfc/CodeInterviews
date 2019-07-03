@@ -3,6 +3,7 @@
 The repository for algorithm learning and interviews summary created by ZFC
 
 ---
+
 ### Java
 
 - [泛型相关问题](/notebook/Java/泛型.md)
@@ -33,12 +34,13 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [高级编程语言](/notebook/Java/高级编程语言.md)
 
+- [预编译PreparedStatement与Statement的区别](https://www.cnblogs.com/weiyi1314/p/6638483.html)
+
 ---
+
 ### 剑指Offer
 
 - [Q3-查询数组中重复的数字](/剑指Offer-Java/Q3-查询数组中重复的数字.md)
 - [Q5-替换字符串中的空格](/剑指Offer-Java/Q5-替换字符串中的空格.md)
 - [Q11-旋转数组中的最小数字](/剑指Offer-Java/Q11-旋转数组的最小数字.md)
 - [Q12-矩阵中的路径](/剑指Offer-Java/Q12-HasPath.md)
-
-
