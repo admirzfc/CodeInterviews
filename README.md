@@ -36,6 +36,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [预编译PreparedStatement与Statement的区别](https://www.cnblogs.com/weiyi1314/p/6638483.html)
 
+- [JDBC](/notebook/Java/JDBC.md)
+
 ---
 
 ### 剑指Offer
