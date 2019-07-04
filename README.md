@@ -44,6 +44,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [TCP、UDP、IP协议总结](https://www.cnblogs.com/lhyblog/p/5915360.html)
 
+- [DNS寻址过程](/notebook/NetWork/DNS.md)
+
 
 ---
 
@@ -59,5 +61,9 @@ The repository for algorithm learning and interviews summary created by ZFC
 ### 笔试题汇总
 
 - [ByteDance效率工程0702笔试题](/notebook/DanceByte/字节跳动效率工程0702.md)
+
+
+
+
 
 
