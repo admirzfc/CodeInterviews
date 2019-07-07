@@ -68,4 +68,5 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 ### 笔试题汇总
 
-- [ByteDance效率工程0702笔试题](/notebook/DanceByte/字节跳动效率工程0702.md)
+- [ByteDance效率工程0702笔试题](/notebook/DanceByte/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%95%88%E7%8E%87%E5%B7%A5%E7%A8%8B0702.md)
+- [ByteDance效率工程0707笔试题](/notebook/DanceByte/字节跳动效率工程0707.md)
