@@ -40,6 +40,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [有序数组(链表)合并](/notebook/Java/有序数组or链表的合并.md)
 
+- [Java的类加载机制](https://blog.csdn.net/cnahyz/article/details/82219210#%E4%B8%80%E3%80%81%E7%B1%BB%E5%8A%A0%E8%BD%BD)
+
 ---
 
 ### 分布式
