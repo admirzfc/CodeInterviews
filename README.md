@@ -68,6 +68,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [HTTTPS与数字签名](https://www.cnblogs.com/rinack/p/10743355.html)
 
+- [I/O多路复用](https://www.jianshu.com/p/6a6845464770)
+
 ---
 
 ### 剑指Offer
