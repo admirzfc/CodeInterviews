@@ -66,7 +66,7 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [DNS寻址过程](/notebook/NetWork/DNS.md)
 
-- [https与数字签名](https://www.cnblogs.com/rinack/p/10743355.html)
+- [HTTTPS与数字签名](https://www.cnblogs.com/rinack/p/10743355.html)
 
 ---
 
