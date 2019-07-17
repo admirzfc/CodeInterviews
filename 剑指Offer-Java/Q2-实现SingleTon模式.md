@@ -61,25 +61,15 @@
    
    ```
    public class SingleTon{
-   
        private static SingleTon INSTANCE;
-   
        private SingleTon(){}
-   
        public static SingleTon getInstance(){
-   
            if (INSTANCE == null){
-   
                synchronized (SingleTon.class){
-   
                    INSTANCE = new SingleTon();
-   
                }
-   
            }
-   
            return INSTANCE;
-   
        }
    }
    ```
@@ -109,7 +99,7 @@
    public class SingleTon{
        private SingleTon(){}
        public static SingleTon getInstance(){
-          return SingleTonInstance.INSTANCE;
+           return SingleTonInstance.INSTANCE;
        }
        public static class SingleTonInstance{
            private final static SingleTon INSTANCE = new SingleTon();
@@ -150,5 +140,3 @@
    ```
 
 一个讲的稍微有点详细的博客，各种实现方式之间的差别和优缺点分析：[https://www.cnblogs.com/chinaifae/articles/10320692.html](https://www.cnblogs.com/chinaifae/articles/10320692.html)
-
-
