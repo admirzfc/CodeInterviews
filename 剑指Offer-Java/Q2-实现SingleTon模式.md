@@ -127,4 +127,28 @@
            //do sth ...
        }
    }
+   
+   //例如
+   public enum SingleTon{
+   
+
+       INSTAMCE;
+
+       private SingleTon(){
+           System.out.println("init");
+       }
+       private void print(){
+           System.out.println("FFFFFFFF");
+       }
+       public static void main(String[] args){
+           SingleTon singleTon = SingleTon.INSTAMCE;
+           singleTon.print();
+           SingleTon singleTon1 = SingleTon.INSTAMCE;
+           singleTon1.print();
+           SingleTon singleTon2 = SingleTon.INSTAMCE;
+           singleTon2.print();
+           //只会输出一次”init“
+
+       }
+   }
    ```
