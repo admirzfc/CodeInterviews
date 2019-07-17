@@ -130,10 +130,7 @@
    
    //例如
    public enum SingleTon{
-   
-
        INSTAMCE;
-
        private SingleTon(){
            System.out.println("init");
        }
@@ -148,7 +145,10 @@
            SingleTon singleTon2 = SingleTon.INSTAMCE;
            singleTon2.print();
            //只会输出一次”init“
-
        }
    }
    ```
+
+一个讲的稍微有点详细的博客，各种实现方式之间的差别和优缺点分析：[https://www.cnblogs.com/chinaifae/articles/10320692.html](https://www.cnblogs.com/chinaifae/articles/10320692.html)
+
+
