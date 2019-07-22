@@ -42,6 +42,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [Java的类加载机制](https://blog.csdn.net/cnahyz/article/details/82219210#%E4%B8%80%E3%80%81%E7%B1%BB%E5%8A%A0%E8%BD%BD)
 
+- [Java汉字编码与开发中的乱码问题](https://blog.csdn.net/troyaninpc/article/details/79476751)
+
 ---
 
 ### 数据库
