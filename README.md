@@ -88,6 +88,7 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [Q10-斐波那契数列](/%E5%89%91%E6%8C%87Offer-Java/Q10-斐波那契数列.md)
 - [Q11-旋转数组中的最小数字](/%E5%89%91%E6%8C%87Offer-Java/Q11-旋转数组中的最小数字.md)
 - [Q12-矩阵中的路径](/%E5%89%91%E6%8C%87Offer-Java/Q12-矩阵中的路径.md)
+- [Q17-打印从1到最大的n位数及大数加减法](/%E5%89%91%E6%8C%87Offer-Java/Q17-打印从1到最大的n位数及大数加减法.md)
 
 ---
 
