@@ -44,6 +44,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [Java汉字编码与开发中的乱码问题](https://blog.csdn.net/troyaninpc/article/details/79476751)
 
+- [大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)
+
 ---
 
 ### 数据库
@@ -71,6 +73,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [HTTTPS与数字签名](https://www.cnblogs.com/rinack/p/10743355.html)
 
 - [I/O多路复用](https://www.jianshu.com/p/6a6845464770)
+
+- [DDos攻击](https://mp.weixin.qq.com/s/SrJBynh5dyOtyaNcQMZyhA?)
 
 ---
 
