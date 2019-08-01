@@ -46,6 +46,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)
 
+- [字符串匹配算法KMP及SunDay](https://blog.csdn.net/gao506440410/article/details/81812163)
+
 ---
 
 ### 数据库
