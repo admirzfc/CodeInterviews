@@ -44,7 +44,7 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [Java汉字编码与开发中的乱码问题](https://blog.csdn.net/troyaninpc/article/details/79476751)
 
-- [大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)
+- [Java面试题大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)
 
 - [字符串匹配算法KMP及SunDay](https://blog.csdn.net/gao506440410/article/details/81812163)
 
