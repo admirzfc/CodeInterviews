@@ -48,6 +48,10 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [字符串匹配算法KMP及SunDay](https://blog.csdn.net/gao506440410/article/details/81812163)
 
+- [MySQL中的事务隔离级别](https://www.cnblogs.com/rjzheng/p/10510174.html)
+
+- [Super 和 this的使用及区别](https://www.cnblogs.com/yyy6/p/8976584.html)
+
 ---
 
 ### 数据库
