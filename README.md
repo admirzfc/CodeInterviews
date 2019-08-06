@@ -42,6 +42,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [Java的类加载机制](https://blog.csdn.net/cnahyz/article/details/82219210#%E4%B8%80%E3%80%81%E7%B1%BB%E5%8A%A0%E8%BD%BD)
 
+- [比较清楚的讲类加载机制](/notebook/Java/类加载机制.md)
+
 - [Java汉字编码与开发中的乱码问题](https://blog.csdn.net/troyaninpc/article/details/79476751)
 
 - [Java面试题大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)
@@ -51,6 +53,10 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [MySQL中的事务隔离级别](https://www.cnblogs.com/rjzheng/p/10510174.html)
 
 - [Super 和 this的使用及区别](https://www.cnblogs.com/yyy6/p/8976584.html)
+
+- [秒杀系统优化方案](https://www.cnblogs.com/xiangkejin/p/9351463.html)
+
+- [基于JWT的token验证方案](https://www.cnblogs.com/xiangkejin/p/9011119.html#4299887)
 
 ---
 
