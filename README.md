@@ -63,6 +63,7 @@ The repository for algorithm learning and interviews summary created by ZFC
 ### 数据库
 
 - [一些SQL学习](/notebook/Database/SQL.md)
+- [Greenplum主备同步方式及架构](https://blog.csdn.net/weixin_34226182/article/details/90681915)
 
 ### 手撕算法
 
