@@ -58,6 +58,10 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [基于JWT的token验证方案](https://www.cnblogs.com/xiangkejin/p/9011119.html#4299887)
 
+- [深入理解JVM在Java堆中对象分配、布局和访问的全过程](https://www.imooc.com/article/details/id/27078)
+
+- [JVM实现多态的原理](https://www.cnblogs.com/serendipity-fly/p/9469289.html)
+
 ---
 
 ### 数据库
