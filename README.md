@@ -118,3 +118,5 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [ByteDance效率工程0702笔试题](/notebook/DanceByte/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%95%88%E7%8E%87%E5%B7%A5%E7%A8%8B0702.md)
 - [ByteDance效率工程0707笔试题](/notebook/DanceByte/字节跳动效率工程0707.md)
 - [ByteDance面试收集](/notebook/DanceByte/面试.md)
+- [顺丰面试](/notebook/java/顺丰.md)
+- [贝壳20190818面试](/notebook/java/Beike.md)
