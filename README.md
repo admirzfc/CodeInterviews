@@ -62,6 +62,9 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [JVM实现多态的原理](https://www.cnblogs.com/serendipity-fly/p/9469289.html)
 
+- [HashMap与ConcurrentHashMap](https://zhuanlan.zhihu.com/p/40327960)
+
+- [UML领域模型和类图](https://blog.csdn.net/chz_cslg/article/details/23957235)
 ---
 
 ### 数据库
