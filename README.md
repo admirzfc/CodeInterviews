@@ -65,6 +65,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [HashMap与ConcurrentHashMap](https://zhuanlan.zhihu.com/p/40327960)
 
 - [UML领域模型和类图](https://blog.csdn.net/chz_cslg/article/details/23957235)
+
+- [G1垃圾收集器](https://blog.csdn.net/zhou2s_101216/article/details/79202893)
 ---
 
 ### 数据库
