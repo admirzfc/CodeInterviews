@@ -74,6 +74,9 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [一些SQL学习](/notebook/Database/SQL.md)
 - [Greenplum主备同步方式及架构](https://blog.csdn.net/weixin_34226182/article/details/90681915)
 
+### Linux常用
+- [Linux常用命令](https://www.cnblogs.com/passzhang/p/8552757.html)
+
 ### 手撕算法
 
 - [ByteDance-代码版本号排序问题](/notebook/Java/代码版本号排序问题.md)
@@ -97,6 +100,10 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [I/O多路复用](https://www.jianshu.com/p/6a6845464770)
 
 - [DDos攻击](https://mp.weixin.qq.com/s/SrJBynh5dyOtyaNcQMZyhA?)
+
+- [Http数据包头部](https://blog.csdn.net/zhangliu463884153/article/details/80029031)
+
+- [分包,粘包,半包](https://blog.csdn.net/sunmenggmail/article/details/38952131)
 
 ---
 
