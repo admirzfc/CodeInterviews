@@ -110,17 +110,29 @@ The repository for algorithm learning and interviews summary created by ZFC
 ### 剑指Offer
 
 - [Q2-实现SingleTon模式.md](/剑指Offer-Java/Q2-实现SingleTon模式.md)
+
 - [Q3-不修改数组找出重复的数字](/剑指Offer-Java/Q3-不修改数组找出重复的数字.md)
+
 - [Q3-数组中重复的数字](/%E5%89%91%E6%8C%87Offer-Java/Q3-数组中重复的数字.md)
+
 - [Q4-二维数组中的查找](/%E5%89%91%E6%8C%87Offer-Java/Q4-二维数组中的查找.md)
+
 - [Q5-替换空格](/%E5%89%91%E6%8C%87Offer-Java/Q5-替换空格.md)
+
 - [Q6-从尾到头打印链表](/%E5%89%91%E6%8C%87Offer-Java/Q6-从尾到头打印链表.md)
+
 - [Q7-重建二叉树](/%E5%89%91%E6%8C%87Offer-Java/Q7-重建二叉树.md)
+
 - [Q8-二叉树中序遍历的下一个节点](/%E5%89%91%E6%8C%87Offer-Java/Q8-二叉树中序遍历的下一个节点.md)
+
 - [Q9-用两个栈实现队列](/%E5%89%91%E6%8C%87Offer-Java/Q9-用两个栈实现队列.md)
+
 - [Q10-斐波那契数列](/%E5%89%91%E6%8C%87Offer-Java/Q10-斐波那契数列.md)
+
 - [Q11-旋转数组中的最小数字](/%E5%89%91%E6%8C%87Offer-Java/Q11-旋转数组中的最小数字.md)
+
 - [Q12-矩阵中的路径](/%E5%89%91%E6%8C%87Offer-Java/Q12-矩阵中的路径.md)
+
 - [Q17-打印从1到最大的n位数及大数加减法](/%E5%89%91%E6%8C%87Offer-Java/Q17-打印从1到最大的n位数及大数加减法.md)
 
 ---
