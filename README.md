@@ -67,6 +67,11 @@ The repository for algorithm learning and interviews summary created by ZFC
 - [UML领域模型和类图](https://blog.csdn.net/chz_cslg/article/details/23957235)
 
 - [G1垃圾收集器](https://blog.csdn.net/zhou2s_101216/article/details/79202893)
+
+- [AQS](https://blog.csdn.net/zhangdong2012/article/details/79983404)
+
+- [JDk Proxy为什么只能通过接口来代理](https://www.cnblogs.com/WeidLang/p/9857495.html)
+
 ---
 
 ### 数据库
