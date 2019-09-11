@@ -72,12 +72,22 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [JDk Proxy为什么只能通过接口来代理](https://www.cnblogs.com/WeidLang/p/9857495.html)
 
+- [ThreadLocal](https://www.cnblogs.com/ldq2016/p/9041856.html)
+
+
 ---
 
 ### 数据库
 
 - [一些SQL学习](/notebook/Database/SQL.md)
+
 - [Greenplum主备同步方式及架构](https://blog.csdn.net/weixin_34226182/article/details/90681915)
+
+- [Mysql 执行Select或update过程](https://blog.csdn.net/finalkof1983/article/details/84450896)
+
+- [Mysql Sql语句执行过程](https://blog.csdn.net/dong_007_007/article/details/78388891)
+
+- [索引为什么不适合设置在重复性大的字段上](http://www.doc88.com/p-7983820174733.html)
 
 ### Linux常用
 - [Linux常用命令](https://www.cnblogs.com/passzhang/p/8552757.html)
