@@ -74,6 +74,7 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [ThreadLocal](https://www.cnblogs.com/ldq2016/p/9041856.html)
 
+- [深入理解JVM栈中的栈帧](https://www.jianshu.com/p/c1d4469887dd)
 
 ---
 
