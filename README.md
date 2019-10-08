@@ -44,6 +44,8 @@ The repository for algorithm learning and interviews summary created by ZFC
 
 - [比较清楚的讲类加载机制](/notebook/Java/类加载机制.md)
 
+- [Tomcat的类加载器结构设计及怎么实现Webapp之间的隔离](https://www.2cto.com/kf/201609/545005.html)
+
 - [Java汉字编码与开发中的乱码问题](https://blog.csdn.net/troyaninpc/article/details/79476751)
 
 - [Java面试题大杂烩](https://www.bjsxt.com/javamianshiti.html#4251F)

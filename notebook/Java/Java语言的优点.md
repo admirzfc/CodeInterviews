@@ -95,6 +95,8 @@ JDK、JRE、JVM
 ![](http://img.blog.csdn.net/20160704103050112?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
+------------
+接口和抽象类之间的区别在于他们的目的不同，抽象类是为了提供继承，而接口是为了提供一种规范，目的是为了降低耦合，接口比抽象类抽象程度更高。
 
 
 
